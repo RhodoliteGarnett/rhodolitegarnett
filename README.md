@@ -4,4 +4,5 @@
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=rhodolitegarnett&style=flat-square&color=red" alt=""/>
 <h1>
+![](https://komarev.com/ghpvc/?rhodolitegarnett&style=flat-square&color=red")
  Tis I Garnet!
